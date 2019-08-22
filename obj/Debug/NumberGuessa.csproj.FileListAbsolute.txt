@@ -1,0 +1,6 @@
+C:\Users\OLASUNKANMI\source\repos\NumberGuessa\bin\Debug\NumberGuessa.exe.config
+C:\Users\OLASUNKANMI\source\repos\NumberGuessa\bin\Debug\NumberGuessa.exe
+C:\Users\OLASUNKANMI\source\repos\NumberGuessa\bin\Debug\NumberGuessa.pdb
+C:\Users\OLASUNKANMI\source\repos\NumberGuessa\obj\Debug\NumberGuessa.csproj.CoreCompileInputs.cache
+C:\Users\OLASUNKANMI\source\repos\NumberGuessa\obj\Debug\NumberGuessa.exe
+C:\Users\OLASUNKANMI\source\repos\NumberGuessa\obj\Debug\NumberGuessa.pdb
